@@ -1,5 +1,5 @@
 remote_ssh_shell_GOOGOODOLL.py (Version 1.0 July 2021)
-SSH Client to run remote commands
+Shell to access SSH servers and run remote commands.
 
 Questions? dolores@infosecpath.com
 
