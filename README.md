@@ -18,4 +18,11 @@ To run:
 $ python3 remote_ssh_shell_GOOGOODOLL.py
 To end session type "quit" or hit Ctrl-C
 
+Modules you'll need to pip install:
+getpass 
+threading
+paramiko
+subprocess
+
+
 DISCLAIMER: This is meant to be for educational and/or pentesting purposes only.
