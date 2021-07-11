@@ -4,6 +4,7 @@
 # SSH Client to run remote commands
 #
 # Questions to: dolores@infosecpath.com
+# Lots of this code received the immense collaboration of a great Python wizard friend of mine.
 #
 # This script can allow you to send common commands to an SSH remote server such as:
 # whoami, id, ls, pwd, cat (as in cat /etc/passwd), wget, rm, cp, mv, ls -la, curl (and many more). 
