@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 #
 # remote_ssh_shell_GOOGOODOLL.py  (Version 1.0 - July 2021)
-# SSH Client to run remote commands
+# Shell to access SSH servers and run remote commands.
 #
 # Questions to: dolores@infosecpath.com
-# Lots of this code received the immense collaboration of a great Python wizard friend of mine.
+# Lots of this code received the immense collaboration of a great Python wizard: Juan Camilo Corena (former Google software engineer).
 #
 # This script can allow you to send common commands to an SSH remote server such as:
 # whoami, id, ls, pwd, cat (as in cat /etc/passwd), wget, rm, cp, mv, ls -la, curl (and many more). 
