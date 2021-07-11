@@ -23,9 +23,9 @@
 
 
 import getpass 
-import threading
-import subprocess
 import paramiko
+import subprocess
+import threading
 
 
 def paramiko_get_client(ip, user, passwd):
