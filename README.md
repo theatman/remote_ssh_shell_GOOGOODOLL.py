@@ -22,11 +22,11 @@ You will need to enter the password, but after running this script!!!
 <p>$ python3 remote_ssh_shell_GOOGOODOLL.py</p>
 <p>To end session type "quit" or hit Ctrl-C </p>
 <br>
-Modules you'll need to pip install:
-getpass 
-threading
-paramiko
-subprocess
+<p>Modules you'll need to pip install:</p>
+<p>getpass</p> 
+<p>threading</p>
+<p>paramiko</p>
+<p>subprocess</p>
 
 <h3>Questions</h3>
 Questions? dolores@infosecpath.com
