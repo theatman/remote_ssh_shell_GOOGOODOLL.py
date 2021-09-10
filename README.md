@@ -12,7 +12,7 @@ IMPORTANT: Credentials for the remote server you're trying to connect to are nec
 
 <h2>Getting Started</h2>
 You can add the IP address of the SSH server you're trying to connect to/attack and the username in the script's line 55.
-Once you run the scripy, you will be prompted to enter the acount's password.
+Once you execute the script, you will be prompted to enter the acount's password.
 <br>
 <p>To run:
 <p>$ python3 remote_ssh_shell_GOOGOODOLL.py</p>
