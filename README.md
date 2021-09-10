@@ -11,8 +11,8 @@ $ cat /home/tom/Documents/file-you-knew-existed.txt
 IMPORTANT: Credentials for the remote server you're trying to connect to are necessary to run this script.
 
 <h2>Getting Started</h2>
-You can add the IP address of the SSH server you're trying to connect to/attack and the username in the script's line 55.
-Once you execute the script, you will be prompted to enter the acount's password.
+</p>First, you need to add the IP address of the SSH server you're trying to connect to or attack and its username in the script's line 55.
+Once you execute the script, you will be prompted for the account's password.</p>
 <br>
 <p>To run:
 <p>$ python3 remote_ssh_shell_GOOGOODOLL.py</p>
