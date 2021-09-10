@@ -1,7 +1,6 @@
 <h1>Goo Goo Doll Remote SSH Shell</h1>
-
 <h2>Shell to access SSH servers and run remote commands.</h2>
-remote_ssh_shell_GOOGOODOLL.py (Version 1.0 July 2021)
+<b>Goo Goo Doll Remote SSH Shell - remote_ssh_shell_GOOGOODOLL.py (Version 1.0 July 2021)</b>
 
 <h2>Purpose</h2>
 
@@ -18,10 +17,11 @@ HOW TO USE:
 You can add the IP address of the SSH server you're trying to connect to in Line 55.
 You can add the SSH username in Line 55.
 You will need to enter the password, but after running this script!!!
-To run:
-$ python3 remote_ssh_shell_GOOGOODOLL.py
-To end session type "quit" or hit Ctrl-C
-
+<br>
+<p>To run:
+<p>$ python3 remote_ssh_shell_GOOGOODOLL.py</p>
+<p>To end session type "quit" or hit Ctrl-C </p>
+<br>
 Modules you'll need to pip install:
 getpass 
 threading
